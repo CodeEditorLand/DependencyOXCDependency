@@ -40,3 +40,9 @@
 [submodule "unicode-id-start"]
 	path = unicode-id-start
 	url = ssh://git@github.com/CodeEditorLand/unicode-id-start.git
+[submodule "oxc-assets"]
+	path = oxc-assets
+	url = ssh://git@github.com/CodeEditorLand/oxc-assets.git
+[submodule "unicode-id"]
+	path = unicode-id
+	url = ssh://git@github.com/CodeEditorLand/unicode-id.git
