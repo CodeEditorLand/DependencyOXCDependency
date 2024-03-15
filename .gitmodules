@@ -1,48 +1,63 @@
 [submodule "AriaQuery"]
-	path = AriaQuery
-	url = ssh://git@github.com/CodeEditorLand/AriaQuery.git
+path = AriaQuery
+url = ssh://git@github.com/CodeEditorLand/AriaQuery.git
+
 [submodule "BenchJavascriptLinter"]
-	path = BenchJavascriptLinter
-	url = ssh://git@github.com/CodeEditorLand/BenchJavascriptLinter.git
+path = BenchJavascriptLinter
+url = ssh://git@github.com/CodeEditorLand/BenchJavascriptLinter.git
+
 [submodule "BenchJavascriptParserWrittenInRust"]
-	path = BenchJavascriptParserWrittenInRust
-	url = ssh://git@github.com/CodeEditorLand/BenchJavascriptParserWrittenInRust.git
+path = BenchJavascriptParserWrittenInRust
+url = ssh://git@github.com/CodeEditorLand/BenchJavascriptParserWrittenInRust.git
+
 [submodule "BenchmarkFiles"]
-	path = BenchmarkFiles
-	url = ssh://git@github.com/CodeEditorLand/BenchmarkFiles.git
+path = BenchmarkFiles
+url = ssh://git@github.com/CodeEditorLand/BenchmarkFiles.git
+
 [submodule "BenchNodejsResolver"]
-	path = BenchNodejsResolver
-	url = ssh://git@github.com/CodeEditorLand/BenchNodejsResolver.git
+path = BenchNodejsResolver
+url = ssh://git@github.com/CodeEditorLand/BenchNodejsResolver.git
+
 [submodule "EslintPluginOxlint"]
-	path = EslintPluginOxlint
-	url = ssh://git@github.com/CodeEditorLand/EslintPluginOxlint.git
+path = EslintPluginOxlint
+url = ssh://git@github.com/CodeEditorLand/EslintPluginOxlint.git
+
 [submodule "JavascriptParserInRust"]
-	path = JavascriptParserInRust
-	url = ssh://git@github.com/CodeEditorLand/JavascriptParserInRust.git
+path = JavascriptParserInRust
+url = ssh://git@github.com/CodeEditorLand/JavascriptParserInRust.git
+
 [submodule "JsonStripComments"]
-	path = JsonStripComments
-	url = ssh://git@github.com/CodeEditorLand/JsonStripComments.git
+path = JsonStripComments
+url = ssh://git@github.com/CodeEditorLand/JsonStripComments.git
+
 [submodule "MirrorsOxlint"]
-	path = MirrorsOxlint
-	url = ssh://git@github.com/CodeEditorLand/MirrorsOxlint.git
+path = MirrorsOxlint
+url = ssh://git@github.com/CodeEditorLand/MirrorsOxlint.git
+
 [submodule "Oxc"]
-	path = Oxc
-	url = ssh://git@github.com/CodeEditorLand/Oxc.git
+path = Oxc
+url = ssh://git@github.com/CodeEditorLand/Oxc.git
+
 [submodule "OxcAssets"]
-	path = OxcAssets
-	url = ssh://git@github.com/CodeEditorLand/OxcAssets.git
+path = OxcAssets
+url = ssh://git@github.com/CodeEditorLand/OxcAssets.git
+
 [submodule "OxcFuzzParser"]
-	path = OxcFuzzParser
-	url = ssh://git@github.com/CodeEditorLand/OxcFuzzParser.git
+path = OxcFuzzParser
+url = ssh://git@github.com/CodeEditorLand/OxcFuzzParser.git
+
 [submodule "OxcIntellijPlugin"]
-	path = OxcIntellijPlugin
-	url = ssh://git@github.com/CodeEditorLand/OxcIntellijPlugin.git
+path = OxcIntellijPlugin
+url = ssh://git@github.com/CodeEditorLand/OxcIntellijPlugin.git
+
 [submodule "OxcResolver"]
-	path = OxcResolver
-	url = ssh://git@github.com/CodeEditorLand/OxcResolver.git
+path = OxcResolver
+url = ssh://git@github.com/CodeEditorLand/OxcResolver.git
+
 [submodule "UnicodeId"]
-	path = UnicodeId
-	url = ssh://git@github.com/CodeEditorLand/UnicodeId.git
+path = UnicodeId
+url = ssh://git@github.com/CodeEditorLand/UnicodeId.git
+
 [submodule "UnicodeIdStart"]
-	path = UnicodeIdStart
-	url = ssh://git@github.com/CodeEditorLand/UnicodeIdStart.git
+path = UnicodeIdStart
+url = ssh://git@github.com/CodeEditorLand/UnicodeIdStart.git
