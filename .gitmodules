@@ -61,6 +61,3 @@ url = ssh://git@github.com/CodeEditorLand/UnicodeId.git
 [submodule "UnicodeIdStart"]
 path = UnicodeIdStart
 url = ssh://git@github.com/CodeEditorLand/UnicodeIdStart.git
-[submodule "PrivateMoon"]
-	path = PrivateMoon
-	url = ssh://git@github.com/CodeEditorLand/PrivateMoon.git
