@@ -1,0 +1,6 @@
+[submodule "AriaQuery"]
+	path = AriaQuery
+	url = ssh://git@github.com/CodeEditorLand/AriaQuery.git
+[submodule "BenchJavaScriptLinter"]
+	path = BenchJavaScriptLinter
+	url = ssh://git@github.com/CodeEditorLand/BenchJavaScriptLinter.git
