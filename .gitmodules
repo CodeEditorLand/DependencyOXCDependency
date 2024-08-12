@@ -25,3 +25,21 @@
 [submodule "MirrorsOxlint"]
 	path = MirrorsOxlint
 	url = ssh://git@github.com/CodeEditorLand/MirrorsOxlint.git
+[submodule "OXC"]
+	path = OXC
+	url = ssh://git@github.com/CodeEditorLand/OXC.git
+[submodule "OXCAssets"]
+	path = OXCAssets
+	url = ssh://git@github.com/CodeEditorLand/OXCAssets.git
+[submodule "OXCFuzzParser"]
+	path = OXCFuzzParser
+	url = ssh://git@github.com/CodeEditorLand/OXCFuzzParser.git
+[submodule "OXCIntellijPlugin"]
+	path = OXCIntellijPlugin
+	url = ssh://git@github.com/CodeEditorLand/OXCIntellijPlugin.git
+[submodule "UniCodeID"]
+	path = UniCodeID
+	url = ssh://git@github.com/CodeEditorLand/UniCodeID.git
+[submodule "UniCodeIDStart"]
+	path = UniCodeIDStart
+	url = ssh://git@github.com/CodeEditorLand/UniCodeIDStart.git
