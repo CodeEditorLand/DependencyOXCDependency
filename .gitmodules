@@ -4,3 +4,24 @@
 [submodule "BenchJavaScriptLinter"]
 	path = BenchJavaScriptLinter
 	url = ssh://git@github.com/CodeEditorLand/BenchJavaScriptLinter.git
+[submodule "BenchJavaScriptParserWrittenInRust"]
+	path = BenchJavaScriptParserWrittenInRust
+	url = ssh://git@github.com/CodeEditorLand/BenchJavaScriptParserWrittenInRust.git
+[submodule "BenchMarkFiles"]
+	path = BenchMarkFiles
+	url = ssh://git@github.com/CodeEditorLand/BenchMarkFiles.git
+[submodule "BenchNodeJSResolver"]
+	path = BenchNodeJSResolver
+	url = ssh://git@github.com/CodeEditorLand/BenchNodeJSResolver.git
+[submodule "EslintPluginOxlint"]
+	path = EslintPluginOxlint
+	url = ssh://git@github.com/CodeEditorLand/EslintPluginOxlint.git
+[submodule "JavaScriptParserInRust"]
+	path = JavaScriptParserInRust
+	url = ssh://git@github.com/CodeEditorLand/JavaScriptParserInRust.git
+[submodule "JsonStripComments"]
+	path = JsonStripComments
+	url = ssh://git@github.com/CodeEditorLand/JsonStripComments.git
+[submodule "MirrorsOxlint"]
+	path = MirrorsOxlint
+	url = ssh://git@github.com/CodeEditorLand/MirrorsOxlint.git
