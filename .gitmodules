@@ -43,3 +43,6 @@
 [submodule "UniCodeIDStart"]
 	path = UniCodeIDStart
 	url = ssh://git@github.com/CodeEditorLand/UniCodeIDStart.git
+[submodule "OXCResolver"]
+	path = OXCResolver
+	url = ssh://git@github.com/CodeEditorLand/OXCResolver.git
