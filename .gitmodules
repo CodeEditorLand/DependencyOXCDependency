@@ -1,79 +1,63 @@
 [submodule "BenchMarkFiles"]
 path = BenchMarkFiles
 url = ssh://git@github.com/CodeEditorLand/BenchMarkFiles.git
-ignore = all
 
 [submodule "AriaQuery"]
 path = AriaQuery
 url = ssh://git@github.com/CodeEditorLand/AriaQuery.git
-ignore = all
 
 [submodule "BenchJavaScriptParserWrittenInRust"]
 path = BenchJavaScriptParserWrittenInRust
 url = ssh://git@github.com/CodeEditorLand/BenchJavaScriptParserWrittenInRust.git
-ignore = all
 
 [submodule "JavaScriptParserInRust"]
 path = JavaScriptParserInRust
 url = ssh://git@github.com/CodeEditorLand/JavaScriptParserInRust.git
-ignore = all
 
 [submodule "UniCodeIDStart"]
 path = UniCodeIDStart
 url = ssh://git@github.com/CodeEditorLand/UniCodeIDStart.git
-ignore = all
 
 [submodule "JsonStripComments"]
 path = JsonStripComments
 url = ssh://git@github.com/CodeEditorLand/JsonStripComments.git
-ignore = all
 
 [submodule "EslintPluginOxlint"]
 path = EslintPluginOxlint
 url = ssh://git@github.com/CodeEditorLand/EslintPluginOxlint.git
-ignore = all
 
 [submodule "OXCIntellijPlugin"]
 path = OXCIntellijPlugin
 url = ssh://git@github.com/CodeEditorLand/OXCIntellijPlugin.git
-ignore = all
 
 [submodule "BenchNodeJSResolver"]
 path = BenchNodeJSResolver
 url = ssh://git@github.com/CodeEditorLand/BenchNodeJSResolver.git
-ignore = all
 
 [submodule "MirrorsOxlint"]
 path = MirrorsOxlint
 url = ssh://git@github.com/CodeEditorLand/MirrorsOxlint.git
-ignore = all
 
 [submodule "BenchJavaScriptLinter"]
 path = BenchJavaScriptLinter
 url = ssh://git@github.com/CodeEditorLand/BenchJavaScriptLinter.git
-ignore = all
 
 [submodule "UniCodeID"]
 path = UniCodeID
 url = ssh://git@github.com/CodeEditorLand/UniCodeID.git
-ignore = all
 
 [submodule "OXCFuzzParser"]
 path = OXCFuzzParser
 url = ssh://git@github.com/CodeEditorLand/OXCFuzzParser.git
-ignore = all
 
 [submodule "OXCResolver"]
 path = OXCResolver
 url = ssh://git@github.com/CodeEditorLand/OXCResolver.git
-ignore = all
 
 [submodule "OXC"]
 path = OXC
 url = ssh://git@github.com/CodeEditorLand/OXC.git
-ignore = all
 
 [submodule "OXCAssets"]
 path = OXCAssets
 url = ssh://git@github.com/CodeEditorLand/OXCAssets.git
-ignore = all
